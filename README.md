@@ -1,1 +1,1 @@
-# proyrcto_supervisado
+# proyecto_supervisado
